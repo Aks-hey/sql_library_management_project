@@ -1,3 +1,9 @@
+# Library Management Project
+
+### Entity-Relationship Diagram (ERD)
+
+![ERD Diagram](project_sql/library_erd.png)
+
 # Introduction
 Welcome to the Library Management System project! This project simulates a comprehensive system to manage books, members, and the issuance process in a library.
 
