@@ -195,6 +195,7 @@ Here's the breakdown of the above query
 | B004      | E110       | 4                     | 4                       | $26.50       |
 | B003      | E109       | 3                     | 0                       | $20.00       |
 | B002      | E109       | 2                     | 2                       | $12.00       |
+
 *Each branch with their total earnings*
 
 
